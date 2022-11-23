@@ -13,9 +13,9 @@ module.exports = {
       },
     },
   },
-  paths: {
-    sources: './contracts',
-  },
+  // paths: {
+  //   sources: './contracts',
+  // },
   defaultNetwork: 'localhost',
   networks: {
     hardhat: {
